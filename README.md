@@ -47,10 +47,21 @@ It follows clean code practices and includes unit tests for edge cases and game 
    ```bash
    dotnet run
 
+## Available Commands
  
+5. **Deposit money into your wallet**:
+   ```bash
+   deposit 100
 
+6. **Withdraw money from your wallet**:
+   ```bash
+   withdraw 50
 
-
-
+7. **Place a bet between $1 and $10**:
+   ```bash
+   bet 5
 
    
+8. **Exit the game**:
+   ```bash
+   exit
