@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerWallet", "PlayerWallet\PlayerWallet.csproj", "{448068DB-9F5C-40DF-A670-220B2A9D4058}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerWallet.Tests", "PlayerWallet.Tests\PlayerWallet.Tests.csproj", "{38C1EB3B-C7D4-45AD-B0B5-069BD25E9386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{448068DB-9F5C-40DF-A670-220B2A9D4058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{448068DB-9F5C-40DF-A670-220B2A9D4058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{448068DB-9F5C-40DF-A670-220B2A9D4058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{448068DB-9F5C-40DF-A670-220B2A9D4058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C1EB3B-C7D4-45AD-B0B5-069BD25E9386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C1EB3B-C7D4-45AD-B0B5-069BD25E9386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C1EB3B-C7D4-45AD-B0B5-069BD25E9386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C1EB3B-C7D4-45AD-B0B5-069BD25E9386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAE70DF4-F247-4A57-A36A-D27BFF881664}
+	EndGlobalSection
+EndGlobal
