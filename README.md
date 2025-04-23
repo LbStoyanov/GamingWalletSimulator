@@ -44,7 +44,8 @@ It follows clean code practices and includes unit tests for edge cases and game 
    dotnet build
 
 4. **  Run the application**:
-   ```bash dotnet run
+   ```bash
+   dotnet run
 
  
 
